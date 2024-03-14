@@ -1,0 +1,1538 @@
+[
+ {
+   "Unicode\ncode point": "U+0000",
+   "character": "",
+   "UTF-8\n(hex.)": "00",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0001",
+   "character": "",
+   "UTF-8\n(hex.)": "01",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0002",
+   "character": "",
+   "UTF-8\n(hex.)": "02",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0003",
+   "character": "",
+   "UTF-8\n(hex.)": "03",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0004",
+   "character": "",
+   "UTF-8\n(hex.)": "04",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0005",
+   "character": "",
+   "UTF-8\n(hex.)": "05",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0006",
+   "character": "",
+   "UTF-8\n(hex.)": "06",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0007",
+   "character": "",
+   "UTF-8\n(hex.)": "07",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0008",
+   "character": "",
+   "UTF-8\n(hex.)": "08",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0009",
+   "character": "",
+   "UTF-8\n(hex.)": "09",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+000A",
+   "character": "",
+   "UTF-8\n(hex.)": "0a",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+000B",
+   "character": "",
+   "UTF-8\n(hex.)": "0b",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+000C",
+   "character": "",
+   "UTF-8\n(hex.)": "0c",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+000D",
+   "character": "",
+   "UTF-8\n(hex.)": "0d",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+000E",
+   "character": "",
+   "UTF-8\n(hex.)": "0e",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+000F",
+   "character": "",
+   "UTF-8\n(hex.)": "0f",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0010",
+   "character": "",
+   "UTF-8\n(hex.)": "10",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0011",
+   "character": "",
+   "UTF-8\n(hex.)": "11",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0012",
+   "character": "",
+   "UTF-8\n(hex.)": "12",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0013",
+   "character": "",
+   "UTF-8\n(hex.)": "13",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0014",
+   "character": "",
+   "UTF-8\n(hex.)": "14",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0015",
+   "character": "",
+   "UTF-8\n(hex.)": "15",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0016",
+   "character": "",
+   "UTF-8\n(hex.)": "16",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0017",
+   "character": "",
+   "UTF-8\n(hex.)": "17",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0018",
+   "character": "",
+   "UTF-8\n(hex.)": "18",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0019",
+   "character": "",
+   "UTF-8\n(hex.)": "19",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+001A",
+   "character": "",
+   "UTF-8\n(hex.)": "1a",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+001B",
+   "character": "",
+   "UTF-8\n(hex.)": "1b",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+001C",
+   "character": "",
+   "UTF-8\n(hex.)": "1c",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+001D",
+   "character": "",
+   "UTF-8\n(hex.)": "1d",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+001E",
+   "character": "",
+   "UTF-8\n(hex.)": "1e",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+001F",
+   "character": "",
+   "UTF-8\n(hex.)": "1f",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0020",
+   "character": "",
+   "UTF-8\n(hex.)": "20",
+   "name": "SPACE"
+ },
+ {
+   "Unicode\ncode point": "U+0021",
+   "character": "!",
+   "UTF-8\n(hex.)": "21",
+   "name": "EXCLAMATION MARK"
+ },
+ {
+   "Unicode\ncode point": "U+0022",
+   "character": "\"",
+   "UTF-8\n(hex.)": "22",
+   "name": "QUOTATION MARK"
+ },
+ {
+   "Unicode\ncode point": "U+0023",
+   "character": "#",
+   "UTF-8\n(hex.)": "23",
+   "name": "NUMBER SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+0024",
+   "character": "$",
+   "UTF-8\n(hex.)": "24",
+   "name": "DOLLAR SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+0025",
+   "character": "%",
+   "UTF-8\n(hex.)": "25",
+   "name": "PERCENT SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+0026",
+   "character": "&",
+   "UTF-8\n(hex.)": "26",
+   "name": "AMPERSAND"
+ },
+ {
+   "Unicode\ncode point": "U+0027",
+   "character": "'",
+   "UTF-8\n(hex.)": "27",
+   "name": "APOSTROPHE"
+ },
+ {
+   "Unicode\ncode point": "U+0028",
+   "character": "(",
+   "UTF-8\n(hex.)": "28",
+   "name": "LEFT PARENTHESIS"
+ },
+ {
+   "Unicode\ncode point": "U+0029",
+   "character": ")",
+   "UTF-8\n(hex.)": "29",
+   "name": "RIGHT PARENTHESIS"
+ },
+ {
+   "Unicode\ncode point": "U+002A",
+   "character": "*",
+   "UTF-8\n(hex.)": "2a",
+   "name": "ASTERISK"
+ },
+ {
+   "Unicode\ncode point": "U+002B",
+   "character": "+",
+   "UTF-8\n(hex.)": "2b",
+   "name": "PLUS SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+002C",
+   "character": ",",
+   "UTF-8\n(hex.)": "2c",
+   "name": "COMMA"
+ },
+ {
+   "Unicode\ncode point": "U+002D",
+   "character": "-",
+   "UTF-8\n(hex.)": "2d",
+   "name": "HYPHEN-MINUS"
+ },
+ {
+   "Unicode\ncode point": "U+002E",
+   "character": ".",
+   "UTF-8\n(hex.)": "2e",
+   "name": "FULL STOP"
+ },
+ {
+   "Unicode\ncode point": "U+002F",
+   "character": "/",
+   "UTF-8\n(hex.)": "2f",
+   "name": "SOLIDUS"
+ },
+ {
+   "Unicode\ncode point": "U+0030",
+   "character": "0",
+   "UTF-8\n(hex.)": "30",
+   "name": "DIGIT ZERO"
+ },
+ {
+   "Unicode\ncode point": "U+0031",
+   "character": "1",
+   "UTF-8\n(hex.)": "31",
+   "name": "DIGIT ONE"
+ },
+ {
+   "Unicode\ncode point": "U+0032",
+   "character": "2",
+   "UTF-8\n(hex.)": "32",
+   "name": "DIGIT TWO"
+ },
+ {
+   "Unicode\ncode point": "U+0033",
+   "character": "3",
+   "UTF-8\n(hex.)": "33",
+   "name": "DIGIT THREE"
+ },
+ {
+   "Unicode\ncode point": "U+0034",
+   "character": "4",
+   "UTF-8\n(hex.)": "34",
+   "name": "DIGIT FOUR"
+ },
+ {
+   "Unicode\ncode point": "U+0035",
+   "character": "5",
+   "UTF-8\n(hex.)": "35",
+   "name": "DIGIT FIVE"
+ },
+ {
+   "Unicode\ncode point": "U+0036",
+   "character": "6",
+   "UTF-8\n(hex.)": "36",
+   "name": "DIGIT SIX"
+ },
+ {
+   "Unicode\ncode point": "U+0037",
+   "character": "7",
+   "UTF-8\n(hex.)": "37",
+   "name": "DIGIT SEVEN"
+ },
+ {
+   "Unicode\ncode point": "U+0038",
+   "character": "8",
+   "UTF-8\n(hex.)": "38",
+   "name": "DIGIT EIGHT"
+ },
+ {
+   "Unicode\ncode point": "U+0039",
+   "character": "9",
+   "UTF-8\n(hex.)": "39",
+   "name": "DIGIT NINE"
+ },
+ {
+   "Unicode\ncode point": "U+003A",
+   "character": ":",
+   "UTF-8\n(hex.)": "3a",
+   "name": "COLON"
+ },
+ {
+   "Unicode\ncode point": "U+003B",
+   "character": ";",
+   "UTF-8\n(hex.)": "3b",
+   "name": "SEMICOLON"
+ },
+ {
+   "Unicode\ncode point": "U+003C",
+   "character": "<",
+   "UTF-8\n(hex.)": "3c",
+   "name": "LESS-THAN SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+003D",
+   "character": "=",
+   "UTF-8\n(hex.)": "3d",
+   "name": "EQUALS SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+003E",
+   "character": ">",
+   "UTF-8\n(hex.)": "3e",
+   "name": "GREATER-THAN SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+003F",
+   "character": "?",
+   "UTF-8\n(hex.)": "3f",
+   "name": "QUESTION MARK"
+ },
+ {
+   "Unicode\ncode point": "U+0040",
+   "character": "@",
+   "UTF-8\n(hex.)": "40",
+   "name": "COMMERCIAL AT"
+ },
+ {
+   "Unicode\ncode point": "U+0041",
+   "character": "A",
+   "UTF-8\n(hex.)": "41",
+   "name": "LATIN CAPITAL LETTER A"
+ },
+ {
+   "Unicode\ncode point": "U+0042",
+   "character": "B",
+   "UTF-8\n(hex.)": "42",
+   "name": "LATIN CAPITAL LETTER B"
+ },
+ {
+   "Unicode\ncode point": "U+0043",
+   "character": "C",
+   "UTF-8\n(hex.)": "43",
+   "name": "LATIN CAPITAL LETTER C"
+ },
+ {
+   "Unicode\ncode point": "U+0044",
+   "character": "D",
+   "UTF-8\n(hex.)": "44",
+   "name": "LATIN CAPITAL LETTER D"
+ },
+ {
+   "Unicode\ncode point": "U+0045",
+   "character": "E",
+   "UTF-8\n(hex.)": "45",
+   "name": "LATIN CAPITAL LETTER E"
+ },
+ {
+   "Unicode\ncode point": "U+0046",
+   "character": "F",
+   "UTF-8\n(hex.)": "46",
+   "name": "LATIN CAPITAL LETTER F"
+ },
+ {
+   "Unicode\ncode point": "U+0047",
+   "character": "G",
+   "UTF-8\n(hex.)": "47",
+   "name": "LATIN CAPITAL LETTER G"
+ },
+ {
+   "Unicode\ncode point": "U+0048",
+   "character": "H",
+   "UTF-8\n(hex.)": "48",
+   "name": "LATIN CAPITAL LETTER H"
+ },
+ {
+   "Unicode\ncode point": "U+0049",
+   "character": "I",
+   "UTF-8\n(hex.)": "49",
+   "name": "LATIN CAPITAL LETTER I"
+ },
+ {
+   "Unicode\ncode point": "U+004A",
+   "character": "J",
+   "UTF-8\n(hex.)": "4a",
+   "name": "LATIN CAPITAL LETTER J"
+ },
+ {
+   "Unicode\ncode point": "U+004B",
+   "character": "K",
+   "UTF-8\n(hex.)": "4b",
+   "name": "LATIN CAPITAL LETTER K"
+ },
+ {
+   "Unicode\ncode point": "U+004C",
+   "character": "L",
+   "UTF-8\n(hex.)": "4c",
+   "name": "LATIN CAPITAL LETTER L"
+ },
+ {
+   "Unicode\ncode point": "U+004D",
+   "character": "M",
+   "UTF-8\n(hex.)": "4d",
+   "name": "LATIN CAPITAL LETTER M"
+ },
+ {
+   "Unicode\ncode point": "U+004E",
+   "character": "N",
+   "UTF-8\n(hex.)": "4e",
+   "name": "LATIN CAPITAL LETTER N"
+ },
+ {
+   "Unicode\ncode point": "U+004F",
+   "character": "O",
+   "UTF-8\n(hex.)": "4f",
+   "name": "LATIN CAPITAL LETTER O"
+ },
+ {
+   "Unicode\ncode point": "U+0050",
+   "character": "P",
+   "UTF-8\n(hex.)": "50",
+   "name": "LATIN CAPITAL LETTER P"
+ },
+ {
+   "Unicode\ncode point": "U+0051",
+   "character": "Q",
+   "UTF-8\n(hex.)": "51",
+   "name": "LATIN CAPITAL LETTER Q"
+ },
+ {
+   "Unicode\ncode point": "U+0052",
+   "character": "R",
+   "UTF-8\n(hex.)": "52",
+   "name": "LATIN CAPITAL LETTER R"
+ },
+ {
+   "Unicode\ncode point": "U+0053",
+   "character": "S",
+   "UTF-8\n(hex.)": "53",
+   "name": "LATIN CAPITAL LETTER S"
+ },
+ {
+   "Unicode\ncode point": "U+0054",
+   "character": "T",
+   "UTF-8\n(hex.)": "54",
+   "name": "LATIN CAPITAL LETTER T"
+ },
+ {
+   "Unicode\ncode point": "U+0055",
+   "character": "U",
+   "UTF-8\n(hex.)": "55",
+   "name": "LATIN CAPITAL LETTER U"
+ },
+ {
+   "Unicode\ncode point": "U+0056",
+   "character": "V",
+   "UTF-8\n(hex.)": "56",
+   "name": "LATIN CAPITAL LETTER V"
+ },
+ {
+   "Unicode\ncode point": "U+0057",
+   "character": "W",
+   "UTF-8\n(hex.)": "57",
+   "name": "LATIN CAPITAL LETTER W"
+ },
+ {
+   "Unicode\ncode point": "U+0058",
+   "character": "X",
+   "UTF-8\n(hex.)": "58",
+   "name": "LATIN CAPITAL LETTER X"
+ },
+ {
+   "Unicode\ncode point": "U+0059",
+   "character": "Y",
+   "UTF-8\n(hex.)": "59",
+   "name": "LATIN CAPITAL LETTER Y"
+ },
+ {
+   "Unicode\ncode point": "U+005A",
+   "character": "Z",
+   "UTF-8\n(hex.)": "5a",
+   "name": "LATIN CAPITAL LETTER Z"
+ },
+ {
+   "Unicode\ncode point": "U+005B",
+   "character": "[",
+   "UTF-8\n(hex.)": "5b",
+   "name": "LEFT SQUARE BRACKET"
+ },
+ {
+   "Unicode\ncode point": "U+005C",
+   "character": "\\",
+   "UTF-8\n(hex.)": "5c",
+   "name": "REVERSE SOLIDUS"
+ },
+ {
+   "Unicode\ncode point": "U+005D",
+   "character": "]",
+   "UTF-8\n(hex.)": "5d",
+   "name": "RIGHT SQUARE BRACKET"
+ },
+ {
+   "Unicode\ncode point": "U+005E",
+   "character": "^",
+   "UTF-8\n(hex.)": "5e",
+   "name": "CIRCUMFLEX ACCENT"
+ },
+ {
+   "Unicode\ncode point": "U+005F",
+   "character": "_",
+   "UTF-8\n(hex.)": "5f",
+   "name": "LOW LINE"
+ },
+ {
+   "Unicode\ncode point": "U+0060",
+   "character": "`",
+   "UTF-8\n(hex.)": "60",
+   "name": "GRAVE ACCENT"
+ },
+ {
+   "Unicode\ncode point": "U+0061",
+   "character": "a",
+   "UTF-8\n(hex.)": "61",
+   "name": "LATIN SMALL LETTER A"
+ },
+ {
+   "Unicode\ncode point": "U+0062",
+   "character": "b",
+   "UTF-8\n(hex.)": "62",
+   "name": "LATIN SMALL LETTER B"
+ },
+ {
+   "Unicode\ncode point": "U+0063",
+   "character": "c",
+   "UTF-8\n(hex.)": "63",
+   "name": "LATIN SMALL LETTER C"
+ },
+ {
+   "Unicode\ncode point": "U+0064",
+   "character": "d",
+   "UTF-8\n(hex.)": "64",
+   "name": "LATIN SMALL LETTER D"
+ },
+ {
+   "Unicode\ncode point": "U+0065",
+   "character": "e",
+   "UTF-8\n(hex.)": "65",
+   "name": "LATIN SMALL LETTER E"
+ },
+ {
+   "Unicode\ncode point": "U+0066",
+   "character": "f",
+   "UTF-8\n(hex.)": "66",
+   "name": "LATIN SMALL LETTER F"
+ },
+ {
+   "Unicode\ncode point": "U+0067",
+   "character": "g",
+   "UTF-8\n(hex.)": "67",
+   "name": "LATIN SMALL LETTER G"
+ },
+ {
+   "Unicode\ncode point": "U+0068",
+   "character": "h",
+   "UTF-8\n(hex.)": "68",
+   "name": "LATIN SMALL LETTER H"
+ },
+ {
+   "Unicode\ncode point": "U+0069",
+   "character": "i",
+   "UTF-8\n(hex.)": "69",
+   "name": "LATIN SMALL LETTER I"
+ },
+ {
+   "Unicode\ncode point": "U+006A",
+   "character": "j",
+   "UTF-8\n(hex.)": "6a",
+   "name": "LATIN SMALL LETTER J"
+ },
+ {
+   "Unicode\ncode point": "U+006B",
+   "character": "k",
+   "UTF-8\n(hex.)": "6b",
+   "name": "LATIN SMALL LETTER K"
+ },
+ {
+   "Unicode\ncode point": "U+006C",
+   "character": "l",
+   "UTF-8\n(hex.)": "6c",
+   "name": "LATIN SMALL LETTER L"
+ },
+ {
+   "Unicode\ncode point": "U+006D",
+   "character": "m",
+   "UTF-8\n(hex.)": "6d",
+   "name": "LATIN SMALL LETTER M"
+ },
+ {
+   "Unicode\ncode point": "U+006E",
+   "character": "n",
+   "UTF-8\n(hex.)": "6e",
+   "name": "LATIN SMALL LETTER N"
+ },
+ {
+   "Unicode\ncode point": "U+006F",
+   "character": "o",
+   "UTF-8\n(hex.)": "6f",
+   "name": "LATIN SMALL LETTER O"
+ },
+ {
+   "Unicode\ncode point": "U+0070",
+   "character": "p",
+   "UTF-8\n(hex.)": "70",
+   "name": "LATIN SMALL LETTER P"
+ },
+ {
+   "Unicode\ncode point": "U+0071",
+   "character": "q",
+   "UTF-8\n(hex.)": "71",
+   "name": "LATIN SMALL LETTER Q"
+ },
+ {
+   "Unicode\ncode point": "U+0072",
+   "character": "r",
+   "UTF-8\n(hex.)": "72",
+   "name": "LATIN SMALL LETTER R"
+ },
+ {
+   "Unicode\ncode point": "U+0073",
+   "character": "s",
+   "UTF-8\n(hex.)": "73",
+   "name": "LATIN SMALL LETTER S"
+ },
+ {
+   "Unicode\ncode point": "U+0074",
+   "character": "t",
+   "UTF-8\n(hex.)": "74",
+   "name": "LATIN SMALL LETTER T"
+ },
+ {
+   "Unicode\ncode point": "U+0075",
+   "character": "u",
+   "UTF-8\n(hex.)": "75",
+   "name": "LATIN SMALL LETTER U"
+ },
+ {
+   "Unicode\ncode point": "U+0076",
+   "character": "v",
+   "UTF-8\n(hex.)": "76",
+   "name": "LATIN SMALL LETTER V"
+ },
+ {
+   "Unicode\ncode point": "U+0077",
+   "character": "w",
+   "UTF-8\n(hex.)": "77",
+   "name": "LATIN SMALL LETTER W"
+ },
+ {
+   "Unicode\ncode point": "U+0078",
+   "character": "x",
+   "UTF-8\n(hex.)": "78",
+   "name": "LATIN SMALL LETTER X"
+ },
+ {
+   "Unicode\ncode point": "U+0079",
+   "character": "y",
+   "UTF-8\n(hex.)": "79",
+   "name": "LATIN SMALL LETTER Y"
+ },
+ {
+   "Unicode\ncode point": "U+007A",
+   "character": "z",
+   "UTF-8\n(hex.)": "7a",
+   "name": "LATIN SMALL LETTER Z"
+ },
+ {
+   "Unicode\ncode point": "U+007B",
+   "character": "{",
+   "UTF-8\n(hex.)": "7b",
+   "name": "LEFT CURLY BRACKET"
+ },
+ {
+   "Unicode\ncode point": "U+007C",
+   "character": "|",
+   "UTF-8\n(hex.)": "7c",
+   "name": "VERTICAL LINE"
+ },
+ {
+   "Unicode\ncode point": "U+007D",
+   "character": "}",
+   "UTF-8\n(hex.)": "7d",
+   "name": "RIGHT CURLY BRACKET"
+ },
+ {
+   "Unicode\ncode point": "U+007E",
+   "character": "~",
+   "UTF-8\n(hex.)": "7e",
+   "name": "TILDE"
+ },
+ {
+   "Unicode\ncode point": "U+007F",
+   "character": "",
+   "UTF-8\n(hex.)": "7f",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0080",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 80",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0081",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 81",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0082",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 82",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0083",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 83",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0084",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 84",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0085",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 85",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0086",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 86",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0087",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 87",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0088",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 88",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0089",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 89",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+008A",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 8a",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+008B",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 8b",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+008C",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 8c",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+008D",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 8d",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+008E",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 8e",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+008F",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 8f",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0090",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 90",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0091",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 91",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0092",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 92",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0093",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 93",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0094",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 94",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0095",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 95",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0096",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 96",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0097",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 97",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0098",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 98",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+0099",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 99",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+009A",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 9a",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+009B",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 9b",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+009C",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 9c",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+009D",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 9d",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+009E",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 9e",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+009F",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 9f",
+   "name": "<control>"
+ },
+ {
+   "Unicode\ncode point": "U+00A0",
+   "character": "",
+   "UTF-8\n(hex.)": "c2 a0",
+   "name": "NO-BREAK SPACE"
+ },
+ {
+   "Unicode\ncode point": "U+00A1",
+   "character": "¡",
+   "UTF-8\n(hex.)": "c2 a1",
+   "name": "INVERTED EXCLAMATION MARK"
+ },
+ {
+   "Unicode\ncode point": "U+00A2",
+   "character": "¢",
+   "UTF-8\n(hex.)": "c2 a2",
+   "name": "CENT SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+00A3",
+   "character": "£",
+   "UTF-8\n(hex.)": "c2 a3",
+   "name": "POUND SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+00A4",
+   "character": "¤",
+   "UTF-8\n(hex.)": "c2 a4",
+   "name": "CURRENCY SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+00A5",
+   "character": "¥",
+   "UTF-8\n(hex.)": "c2 a5",
+   "name": "YEN SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+00A6",
+   "character": "¦",
+   "UTF-8\n(hex.)": "c2 a6",
+   "name": "BROKEN BAR"
+ },
+ {
+   "Unicode\ncode point": "U+00A7",
+   "character": "§",
+   "UTF-8\n(hex.)": "c2 a7",
+   "name": "SECTION SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+00A8",
+   "character": "¨",
+   "UTF-8\n(hex.)": "c2 a8",
+   "name": "DIAERESIS"
+ },
+ {
+   "Unicode\ncode point": "U+00A9",
+   "character": "©",
+   "UTF-8\n(hex.)": "c2 a9",
+   "name": "COPYRIGHT SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+00AA",
+   "character": "ª",
+   "UTF-8\n(hex.)": "c2 aa",
+   "name": "FEMININE ORDINAL INDICATOR"
+ },
+ {
+   "Unicode\ncode point": "U+00AB",
+   "character": "«",
+   "UTF-8\n(hex.)": "c2 ab",
+   "name": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK"
+ },
+ {
+   "Unicode\ncode point": "U+00AC",
+   "character": "¬",
+   "UTF-8\n(hex.)": "c2 ac",
+   "name": "NOT SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+00AD",
+   "character": "­",
+   "UTF-8\n(hex.)": "c2 ad",
+   "name": "SOFT HYPHEN"
+ },
+ {
+   "Unicode\ncode point": "U+00AE",
+   "character": "®",
+   "UTF-8\n(hex.)": "c2 ae",
+   "name": "REGISTERED SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+00AF",
+   "character": "¯",
+   "UTF-8\n(hex.)": "c2 af",
+   "name": "MACRON"
+ },
+ {
+   "Unicode\ncode point": "U+00B0",
+   "character": "°",
+   "UTF-8\n(hex.)": "c2 b0",
+   "name": "DEGREE SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+00B1",
+   "character": "±",
+   "UTF-8\n(hex.)": "c2 b1",
+   "name": "PLUS-MINUS SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+00B2",
+   "character": "²",
+   "UTF-8\n(hex.)": "c2 b2",
+   "name": "SUPERSCRIPT TWO"
+ },
+ {
+   "Unicode\ncode point": "U+00B3",
+   "character": "³",
+   "UTF-8\n(hex.)": "c2 b3",
+   "name": "SUPERSCRIPT THREE"
+ },
+ {
+   "Unicode\ncode point": "U+00B4",
+   "character": "´",
+   "UTF-8\n(hex.)": "c2 b4",
+   "name": "ACUTE ACCENT"
+ },
+ {
+   "Unicode\ncode point": "U+00B5",
+   "character": "µ",
+   "UTF-8\n(hex.)": "c2 b5",
+   "name": "MICRO SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+00B6",
+   "character": "¶",
+   "UTF-8\n(hex.)": "c2 b6",
+   "name": "PILCROW SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+00B7",
+   "character": "·",
+   "UTF-8\n(hex.)": "c2 b7",
+   "name": "MIDDLE DOT"
+ },
+ {
+   "Unicode\ncode point": "U+00B8",
+   "character": "¸",
+   "UTF-8\n(hex.)": "c2 b8",
+   "name": "CEDILLA"
+ },
+ {
+   "Unicode\ncode point": "U+00B9",
+   "character": "¹",
+   "UTF-8\n(hex.)": "c2 b9",
+   "name": "SUPERSCRIPT ONE"
+ },
+ {
+   "Unicode\ncode point": "U+00BA",
+   "character": "º",
+   "UTF-8\n(hex.)": "c2 ba",
+   "name": "MASCULINE ORDINAL INDICATOR"
+ },
+ {
+   "Unicode\ncode point": "U+00BB",
+   "character": "»",
+   "UTF-8\n(hex.)": "c2 bb",
+   "name": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK"
+ },
+ {
+   "Unicode\ncode point": "U+00BC",
+   "character": "¼",
+   "UTF-8\n(hex.)": "c2 bc",
+   "name": "VULGAR FRACTION ONE QUARTER"
+ },
+ {
+   "Unicode\ncode point": "U+00BD",
+   "character": "½",
+   "UTF-8\n(hex.)": "c2 bd",
+   "name": "VULGAR FRACTION ONE HALF"
+ },
+ {
+   "Unicode\ncode point": "U+00BE",
+   "character": "¾",
+   "UTF-8\n(hex.)": "c2 be",
+   "name": "VULGAR FRACTION THREE QUARTERS"
+ },
+ {
+   "Unicode\ncode point": "U+00BF",
+   "character": "¿",
+   "UTF-8\n(hex.)": "c2 bf",
+   "name": "INVERTED QUESTION MARK"
+ },
+ {
+   "Unicode\ncode point": "U+00C0",
+   "character": "À",
+   "UTF-8\n(hex.)": "c3 80",
+   "name": "LATIN CAPITAL LETTER A WITH GRAVE"
+ },
+ {
+   "Unicode\ncode point": "U+00C1",
+   "character": "Á",
+   "UTF-8\n(hex.)": "c3 81",
+   "name": "LATIN CAPITAL LETTER A WITH ACUTE"
+ },
+ {
+   "Unicode\ncode point": "U+00C2",
+   "character": "Â",
+   "UTF-8\n(hex.)": "c3 82",
+   "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX"
+ },
+ {
+   "Unicode\ncode point": "U+00C3",
+   "character": "Ã",
+   "UTF-8\n(hex.)": "c3 83",
+   "name": "LATIN CAPITAL LETTER A WITH TILDE"
+ },
+ {
+   "Unicode\ncode point": "U+00C4",
+   "character": "Ä",
+   "UTF-8\n(hex.)": "c3 84",
+   "name": "LATIN CAPITAL LETTER A WITH DIAERESIS"
+ },
+ {
+   "Unicode\ncode point": "U+00C5",
+   "character": "Å",
+   "UTF-8\n(hex.)": "c3 85",
+   "name": "LATIN CAPITAL LETTER A WITH RING ABOVE"
+ },
+ {
+   "Unicode\ncode point": "U+00C6",
+   "character": "Æ",
+   "UTF-8\n(hex.)": "c3 86",
+   "name": "LATIN CAPITAL LETTER AE"
+ },
+ {
+   "Unicode\ncode point": "U+00C7",
+   "character": "Ç",
+   "UTF-8\n(hex.)": "c3 87",
+   "name": "LATIN CAPITAL LETTER C WITH CEDILLA"
+ },
+ {
+   "Unicode\ncode point": "U+00C8",
+   "character": "È",
+   "UTF-8\n(hex.)": "c3 88",
+   "name": "LATIN CAPITAL LETTER E WITH GRAVE"
+ },
+ {
+   "Unicode\ncode point": "U+00C9",
+   "character": "É",
+   "UTF-8\n(hex.)": "c3 89",
+   "name": "LATIN CAPITAL LETTER E WITH ACUTE"
+ },
+ {
+   "Unicode\ncode point": "U+00CA",
+   "character": "Ê",
+   "UTF-8\n(hex.)": "c3 8a",
+   "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX"
+ },
+ {
+   "Unicode\ncode point": "U+00CB",
+   "character": "Ë",
+   "UTF-8\n(hex.)": "c3 8b",
+   "name": "LATIN CAPITAL LETTER E WITH DIAERESIS"
+ },
+ {
+   "Unicode\ncode point": "U+00CC",
+   "character": "Ì",
+   "UTF-8\n(hex.)": "c3 8c",
+   "name": "LATIN CAPITAL LETTER I WITH GRAVE"
+ },
+ {
+   "Unicode\ncode point": "U+00CD",
+   "character": "Í",
+   "UTF-8\n(hex.)": "c3 8d",
+   "name": "LATIN CAPITAL LETTER I WITH ACUTE"
+ },
+ {
+   "Unicode\ncode point": "U+00CE",
+   "character": "Î",
+   "UTF-8\n(hex.)": "c3 8e",
+   "name": "LATIN CAPITAL LETTER I WITH CIRCUMFLEX"
+ },
+ {
+   "Unicode\ncode point": "U+00CF",
+   "character": "Ï",
+   "UTF-8\n(hex.)": "c3 8f",
+   "name": "LATIN CAPITAL LETTER I WITH DIAERESIS"
+ },
+ {
+   "Unicode\ncode point": "U+00D0",
+   "character": "Ð",
+   "UTF-8\n(hex.)": "c3 90",
+   "name": "LATIN CAPITAL LETTER ETH"
+ },
+ {
+   "Unicode\ncode point": "U+00D1",
+   "character": "Ñ",
+   "UTF-8\n(hex.)": "c3 91",
+   "name": "LATIN CAPITAL LETTER N WITH TILDE"
+ },
+ {
+   "Unicode\ncode point": "U+00D2",
+   "character": "Ò",
+   "UTF-8\n(hex.)": "c3 92",
+   "name": "LATIN CAPITAL LETTER O WITH GRAVE"
+ },
+ {
+   "Unicode\ncode point": "U+00D3",
+   "character": "Ó",
+   "UTF-8\n(hex.)": "c3 93",
+   "name": "LATIN CAPITAL LETTER O WITH ACUTE"
+ },
+ {
+   "Unicode\ncode point": "U+00D4",
+   "character": "Ô",
+   "UTF-8\n(hex.)": "c3 94",
+   "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX"
+ },
+ {
+   "Unicode\ncode point": "U+00D5",
+   "character": "Õ",
+   "UTF-8\n(hex.)": "c3 95",
+   "name": "LATIN CAPITAL LETTER O WITH TILDE"
+ },
+ {
+   "Unicode\ncode point": "U+00D6",
+   "character": "Ö",
+   "UTF-8\n(hex.)": "c3 96",
+   "name": "LATIN CAPITAL LETTER O WITH DIAERESIS"
+ },
+ {
+   "Unicode\ncode point": "U+00D7",
+   "character": "×",
+   "UTF-8\n(hex.)": "c3 97",
+   "name": "MULTIPLICATION SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+00D8",
+   "character": "Ø",
+   "UTF-8\n(hex.)": "c3 98",
+   "name": "LATIN CAPITAL LETTER O WITH STROKE"
+ },
+ {
+   "Unicode\ncode point": "U+00D9",
+   "character": "Ù",
+   "UTF-8\n(hex.)": "c3 99",
+   "name": "LATIN CAPITAL LETTER U WITH GRAVE"
+ },
+ {
+   "Unicode\ncode point": "U+00DA",
+   "character": "Ú",
+   "UTF-8\n(hex.)": "c3 9a",
+   "name": "LATIN CAPITAL LETTER U WITH ACUTE"
+ },
+ {
+   "Unicode\ncode point": "U+00DB",
+   "character": "Û",
+   "UTF-8\n(hex.)": "c3 9b",
+   "name": "LATIN CAPITAL LETTER U WITH CIRCUMFLEX"
+ },
+ {
+   "Unicode\ncode point": "U+00DC",
+   "character": "Ü",
+   "UTF-8\n(hex.)": "c3 9c",
+   "name": "LATIN CAPITAL LETTER U WITH DIAERESIS"
+ },
+ {
+   "Unicode\ncode point": "U+00DD",
+   "character": "Ý",
+   "UTF-8\n(hex.)": "c3 9d",
+   "name": "LATIN CAPITAL LETTER Y WITH ACUTE"
+ },
+ {
+   "Unicode\ncode point": "U+00DE",
+   "character": "Þ",
+   "UTF-8\n(hex.)": "c3 9e",
+   "name": "LATIN CAPITAL LETTER THORN"
+ },
+ {
+   "Unicode\ncode point": "U+00DF",
+   "character": "ß",
+   "UTF-8\n(hex.)": "c3 9f",
+   "name": "LATIN SMALL LETTER SHARP S"
+ },
+ {
+   "Unicode\ncode point": "U+00E0",
+   "character": "à",
+   "UTF-8\n(hex.)": "c3 a0",
+   "name": "LATIN SMALL LETTER A WITH GRAVE"
+ },
+ {
+   "Unicode\ncode point": "U+00E1",
+   "character": "á",
+   "UTF-8\n(hex.)": "c3 a1",
+   "name": "LATIN SMALL LETTER A WITH ACUTE"
+ },
+ {
+   "Unicode\ncode point": "U+00E2",
+   "character": "â",
+   "UTF-8\n(hex.)": "c3 a2",
+   "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX"
+ },
+ {
+   "Unicode\ncode point": "U+00E3",
+   "character": "ã",
+   "UTF-8\n(hex.)": "c3 a3",
+   "name": "LATIN SMALL LETTER A WITH TILDE"
+ },
+ {
+   "Unicode\ncode point": "U+00E4",
+   "character": "ä",
+   "UTF-8\n(hex.)": "c3 a4",
+   "name": "LATIN SMALL LETTER A WITH DIAERESIS"
+ },
+ {
+   "Unicode\ncode point": "U+00E5",
+   "character": "å",
+   "UTF-8\n(hex.)": "c3 a5",
+   "name": "LATIN SMALL LETTER A WITH RING ABOVE"
+ },
+ {
+   "Unicode\ncode point": "U+00E6",
+   "character": "æ",
+   "UTF-8\n(hex.)": "c3 a6",
+   "name": "LATIN SMALL LETTER AE"
+ },
+ {
+   "Unicode\ncode point": "U+00E7",
+   "character": "ç",
+   "UTF-8\n(hex.)": "c3 a7",
+   "name": "LATIN SMALL LETTER C WITH CEDILLA"
+ },
+ {
+   "Unicode\ncode point": "U+00E8",
+   "character": "è",
+   "UTF-8\n(hex.)": "c3 a8",
+   "name": "LATIN SMALL LETTER E WITH GRAVE"
+ },
+ {
+   "Unicode\ncode point": "U+00E9",
+   "character": "é",
+   "UTF-8\n(hex.)": "c3 a9",
+   "name": "LATIN SMALL LETTER E WITH ACUTE"
+ },
+ {
+   "Unicode\ncode point": "U+00EA",
+   "character": "ê",
+   "UTF-8\n(hex.)": "c3 aa",
+   "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX"
+ },
+ {
+   "Unicode\ncode point": "U+00EB",
+   "character": "ë",
+   "UTF-8\n(hex.)": "c3 ab",
+   "name": "LATIN SMALL LETTER E WITH DIAERESIS"
+ },
+ {
+   "Unicode\ncode point": "U+00EC",
+   "character": "ì",
+   "UTF-8\n(hex.)": "c3 ac",
+   "name": "LATIN SMALL LETTER I WITH GRAVE"
+ },
+ {
+   "Unicode\ncode point": "U+00ED",
+   "character": "í",
+   "UTF-8\n(hex.)": "c3 ad",
+   "name": "LATIN SMALL LETTER I WITH ACUTE"
+ },
+ {
+   "Unicode\ncode point": "U+00EE",
+   "character": "î",
+   "UTF-8\n(hex.)": "c3 ae",
+   "name": "LATIN SMALL LETTER I WITH CIRCUMFLEX"
+ },
+ {
+   "Unicode\ncode point": "U+00EF",
+   "character": "ï",
+   "UTF-8\n(hex.)": "c3 af",
+   "name": "LATIN SMALL LETTER I WITH DIAERESIS"
+ },
+ {
+   "Unicode\ncode point": "U+00F0",
+   "character": "ð",
+   "UTF-8\n(hex.)": "c3 b0",
+   "name": "LATIN SMALL LETTER ETH"
+ },
+ {
+   "Unicode\ncode point": "U+00F1",
+   "character": "ñ",
+   "UTF-8\n(hex.)": "c3 b1",
+   "name": "LATIN SMALL LETTER N WITH TILDE"
+ },
+ {
+   "Unicode\ncode point": "U+00F2",
+   "character": "ò",
+   "UTF-8\n(hex.)": "c3 b2",
+   "name": "LATIN SMALL LETTER O WITH GRAVE"
+ },
+ {
+   "Unicode\ncode point": "U+00F3",
+   "character": "ó",
+   "UTF-8\n(hex.)": "c3 b3",
+   "name": "LATIN SMALL LETTER O WITH ACUTE"
+ },
+ {
+   "Unicode\ncode point": "U+00F4",
+   "character": "ô",
+   "UTF-8\n(hex.)": "c3 b4",
+   "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX"
+ },
+ {
+   "Unicode\ncode point": "U+00F5",
+   "character": "õ",
+   "UTF-8\n(hex.)": "c3 b5",
+   "name": "LATIN SMALL LETTER O WITH TILDE"
+ },
+ {
+   "Unicode\ncode point": "U+00F6",
+   "character": "ö",
+   "UTF-8\n(hex.)": "c3 b6",
+   "name": "LATIN SMALL LETTER O WITH DIAERESIS"
+ },
+ {
+   "Unicode\ncode point": "U+00F7",
+   "character": "÷",
+   "UTF-8\n(hex.)": "c3 b7",
+   "name": "DIVISION SIGN"
+ },
+ {
+   "Unicode\ncode point": "U+00F8",
+   "character": "ø",
+   "UTF-8\n(hex.)": "c3 b8",
+   "name": "LATIN SMALL LETTER O WITH STROKE"
+ },
+ {
+   "Unicode\ncode point": "U+00F9",
+   "character": "ù",
+   "UTF-8\n(hex.)": "c3 b9",
+   "name": "LATIN SMALL LETTER U WITH GRAVE"
+ },
+ {
+   "Unicode\ncode point": "U+00FA",
+   "character": "ú",
+   "UTF-8\n(hex.)": "c3 ba",
+   "name": "LATIN SMALL LETTER U WITH ACUTE"
+ },
+ {
+   "Unicode\ncode point": "U+00FB",
+   "character": "û",
+   "UTF-8\n(hex.)": "c3 bb",
+   "name": "LATIN SMALL LETTER U WITH CIRCUMFLEX"
+ },
+ {
+   "Unicode\ncode point": "U+00FC",
+   "character": "ü",
+   "UTF-8\n(hex.)": "c3 bc",
+   "name": "LATIN SMALL LETTER U WITH DIAERESIS"
+ },
+ {
+   "Unicode\ncode point": "U+00FD",
+   "character": "ý",
+   "UTF-8\n(hex.)": "c3 bd",
+   "name": "LATIN SMALL LETTER Y WITH ACUTE"
+ },
+ {
+   "Unicode\ncode point": "U+00FE",
+   "character": "þ",
+   "UTF-8\n(hex.)": "c3 be",
+   "name": "LATIN SMALL LETTER THORN"
+ },
+ {
+   "Unicode\ncode point": "U+00FF",
+   "character": "ÿ",
+   "UTF-8\n(hex.)": "c3 bf",
+   "name": "LATIN SMALL LETTER Y WITH DIAERESIS"
+ }
+]
